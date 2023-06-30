@@ -5,8 +5,6 @@ from tkinter import messagebox
 from ttkthemes import ThemedStyle
 
 #iniciar o programa com o pc em qualquer pc
-
-
 def desligar_pc():
     tempo = entrada.get()
     unidade_tempo = escolha.get()
